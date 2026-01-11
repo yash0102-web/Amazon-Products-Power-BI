@@ -5,7 +5,7 @@ This project involves building an end-to-end Power BI solution to analyze Amazon
 
 ## 🎯 Objectives
 
-_ Evaluate overall sales and profit metrics
+-  Evaluate overall sales and profit metrics
 
 - Analyze category-wise and product-wise performance
 
@@ -18,6 +18,8 @@ _ Evaluate overall sales and profit metrics
 - Power BI
 
 - Power Query (ETL)
+
+- DAX (Data Analysis Expressions)
 
 - Data Modeling
 
